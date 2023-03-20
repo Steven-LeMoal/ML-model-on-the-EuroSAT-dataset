@@ -1,7 +1,7 @@
 # ML-model-on-the-EuroSAT-dataset
 
-Task - Your task is to train a ML model on the EuroSAT land cover classification
-dataset.
+Task - Your task is to train a ML model on the EuroSAT land cover classification dataset.
+
 Dataset link- Dataset. The dataset contains 64x64 RGB images from Sentinel-2.
 You can find references to the dataset here - https://github.com/phelber/EuroSAT
 
